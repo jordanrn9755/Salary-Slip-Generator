@@ -1,0 +1,5 @@
+Emp. No,Name,Designation,Department,PF UAN,Bank ,Bank Ac No,IFSC ,Gross Salary,Professional Tax,PF Deduction ,ESIC,TDS,Unpaid Leaves,Paid Leaves,Month days,Working days ,Month
+EMP 1 ,Anant Ganesh Admane,Software Developer,IT ,102314565878,SBI,1025451414414,SBI0055,16000,200,Yes,Yes,No,1,0,31,30,Aug
+EMP 2,Dhananjay Nanasaheb Dhaware,Software Developer,IT ,102314565879,SBI,1025451414415,SBI0056,10000,200,Yes,Yes,No,0,0,31,31,Aug
+EMP 3,Sneha Anil Gohane,Software Developer,IT ,102314565880,SBI,1025451414416,SBI0057,10000,200,Yes,Yes,No,0,0,31,31,Aug
+EMP 4,Ritesh Prabhu Shelke,Software Developer,IT ,102314565881,SBI,1025451414417,SBI0058,12000,200,Yes,Yes,No,0,0,31,31,Aug
